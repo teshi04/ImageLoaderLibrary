@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ImageLoaderLibrary</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="volley">volley</string>
+    <string name="uil">UniversalImageLoader</string>
+    <string name="picasso">picasso</string>
+    <string name="uivh">UrlImageViewHelper</string>
+    <string name="aq">AndroidQuery</string>
+    <string name="glide">Glide</string>
+    <string name="glide_gif">Glide Gif</string>
+    <string name="title_activity_glide">Glide</string>
+
+</resources>
